@@ -55,8 +55,5 @@ Save file as rightframe.html
  </head>
  <body>
 <h1>Right Frame</h1>
-2018 Â© UVCE. All rights reserved.
-powered by TargetOrate
-Privacy Policy Reach Us Terms & Conditions Refund Policy
 </body>
 </html>
